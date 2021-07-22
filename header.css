@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+body{
+    height: 55px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
+
+ul li{
+    display: flex;
+    display: inline;
+    
+ 
+}
+img{
+    width: 500px;
+    height: 500px;
+    display: inline;
+    background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  width: 150px;
+  height: 150px;
+}
+input{
+    display: flex;
+    position:relative ;
+    bottom: 150px;
+    margin-left: 1070px;
+ text-align: center;
+ transform: translateY(-20px);
+ background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  font-size: 30px;
+
+ left: 280px;
+ border:dotted;
+ width: 160px;
+
+
+
+}
+.ss{
+    display: inline;
+    color:black;
+    position: relative ;
+    bottom: 150px;
+    margin-left: 250px;
+    font-size: 25px;
+    text-decoration: none;
+    border:dotted;
+    background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+
+}
+h1{
+    text-decoration: overline;
+    text-align: center;
+}
+.vv{
+    font-weight: bold;
+    font-size: 50px;
+}
+marquee{
+  font-size: 50px;
+  
+}
